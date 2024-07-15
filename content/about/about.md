@@ -1,20 +1,15 @@
 +++
 title = 'About'
-date = 2024-07-10T23:08:19+05:30
-draft = true
+date = 2024-07-15T14:50:32+05:30
+draft = false
 +++
 
----
-*Words kill, words give life; they’re either poison or fruit—you choose.*
+# Hi there
 
-— *Proverbs 18:21*
+Welcome to my blog. I am starting this blog to help me organize my learnings, thoughts and anything which interests me and is worth taking a note.
 
----
+I am a software professional with over 18 years of experience with core banking as the domain. I've had the opportunity to work in implementation or engineering team to help clients across multiple geographies. I am married and have a son named, Vihaan. Currently I am located in the 'Silicon Valley of India' Bangalore or Bengaluru.
 
-Poison is a clean, professional Hugo theme designed to captivate your readers.
+Hope you find something of interest here.
 
-It’s also tiny and privacy conscious with no external dependencies. That’s right—no JavaScript frameworks, icon packs, or Google fonts. No ads or trackers polluting your console window (try it out and take a look). We kept things simple. A little vanilla JavaScript, a dash of CSS, and the power of Hugo.
-
-All of the static assets for the site (JS files, CSS, and fonts) are located within the theme’s /static/ directory. That way you know exactly what’s going on your site.
-
-To get started, I recommend reading through my introductory post here. I use this theme on my personal site at https://lukeorth.com, so check it out if you want to see Poison in action.
+Thank you for visiting.
