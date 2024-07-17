@@ -13,7 +13,7 @@ Hi there, welcome to a series on **Artificial Intelligence and Machine Learning*
 - introduction to AI/ML
 - what are the different models used in AI/ML and for what purpose
 - latest trends within AI/ML space
-- and a few more :joy:
+- and a few more :blush:
 
 I like the definition shared by IBM for AI/ML.
 # What is Artifical Intelligence
